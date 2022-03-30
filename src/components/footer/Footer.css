@@ -1,6 +1,7 @@
 .s {
   padding: 10px;
   height: 10vh;
+  overflow-x: hidden;
 }
 .s-text {
   color: #2323a1;
@@ -16,7 +17,7 @@
   justify-content: space-between;
   width: 20%;
   text-align: center;
-  padding: 10px 580px;
+  padding: 10px 540px;
   cursor: pointer;
 }
 .s-img {
